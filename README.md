@@ -1,2 +1,2 @@
 ## Code Implementation Reference
-Specific portions of the code, are based on or adapted from [EEGViT](https://github.com/ruiqiRichard/EEGViT) repository. 
+Currently in the experimentation phase, so just trying to replicate and understand the results of the [EEGViT](https://github.com/ruiqiRichard/EEGViT) repository. 

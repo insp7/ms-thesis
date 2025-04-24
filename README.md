@@ -8,7 +8,7 @@ downsample_data.ipynb - just a helper file to take the source .npz data file and
 
 EEGViT_TCN_Modified - experimented by modifying with kernal and dropout sizes.
 
-SwinTransformerBaseline.ipynb - experimented with basic SwinTrasnformer (non-pretrained version). At the end of 15 Epochs, got a Test loss of 22118.70 which amounts to an RMSE of 74.36 mm. Potential performance improvements that may come with a pretrained version can be tested in the future.
+SwinTransformerBaseline.ipynb - experimented with basic SwinTrasnformer (non-pretrained version). Potential performance improvements that may come with a pretrained version can be tested in the future.
 
 Task2_direction_task_pre_training.ipynb - Pretraining on Task 2 as a task 3 problem.
 
